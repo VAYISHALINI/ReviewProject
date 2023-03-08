@@ -1,0 +1,45 @@
+.for1{
+    background-color: bisque;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 70px 90px;
+}
+input[type=text]{
+    width:50%;
+    margin:8px 0;
+    padding: 10px ;
+    display:inline-block;
+    border:2px solid burlywood;
+    border-radius: 5px;
+    box-sizing: content-box;
+}
+.login-button{
+    width:50%;
+    background-color: rgb(179, 134, 96);
+    color:rgb(4, 4, 3);
+    padding: 10px;
+    margin:8px 0;
+    border:none;
+    border-radius: 5px;
+    cursor: pointer;
+
+   
+}
+
+input[type=submit]:hover{
+  background-color: lavenderblush;
+}
+.login-form{
+    align-items: center;
+    margin-top: 100px;
+}
+.login-label{
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    margin-left: 80px;
+}

@@ -1,0 +1,21 @@
+/* {
+    background-image: url("../images/bha6.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+} */
+table,th,td{
+    border:2px solid black;
+    margin-left: 14%;
+    margin-top: 5%;
+    border-collapse: collapse;
+    width: 500px;
+    text-align: center;
+    font-size: 23px;
+    color: black;
+    padding:5px 10px;
+}
+.ta{
+    background-color: bisque;
+    padding: 200px 180px;
+}
